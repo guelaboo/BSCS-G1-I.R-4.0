@@ -1,0 +1,7 @@
+IR 4.0 Background
+
+Industry 4.0 or Fourth Industrial Revolution is a term that is used to describe the trend of automation and data exchange in manufacturing industries. Industry 4.0 arose in 2011 from a project under the German government's high-tech strategy, which endorses the computerization of manufacturing. The term "Industry 4.0" was first used publicly in the same year at the Hannover Fair.
+The fourth industrial revolution (IR 4.0) includes technology such as the internet of things (IoT), Cloud computing, Artificial intelligence (AI) and many more. IR 4.0 also shows the improvement in the types of technology:
+Connectivity, data and computational power - this includes storage and services which are the internet, blockchain, and cloud technology.
+Analytics and intelligence - this technology is all about automation and making computers perform advance functions that is similar to what a human can do which includes AI and Machine Learning
+Human and machine interaction - is about how people and automated systems or machines interact with each other. This includes virtual reality(VR) and augmented reality(AR).

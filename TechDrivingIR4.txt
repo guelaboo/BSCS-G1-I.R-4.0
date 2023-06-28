@@ -1,0 +1,7 @@
+Technologies that are driving the IR 4.0
+
+Industry 4.0 (IR 4.0) is being driven by many major technologies, 
+which are defined by the integration of advanced technology into 
+the manufacturing process to create "smart factories" which are 
+more efficient and are capable of flexible production. 
+Among the primary technologies underpinning IR 4.0 are:
